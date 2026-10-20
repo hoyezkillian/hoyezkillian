@@ -1,7 +1,6 @@
 <h1 align="center">Bienvenue sur le profil de killian hoyez</h1>
 <h3 align="center">étudiant en BTS Sio Option SISR</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoyezkillian" alt="hoyezkillian" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
